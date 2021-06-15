@@ -1,0 +1,5 @@
+config.py
+react_messages.db
+venv
+__pycache__/
+.idea/
